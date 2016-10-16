@@ -1,0 +1,2 @@
+# SpeakUp
+A SpeakUp é uma startup visionaria que pretende conquistar seus clientes por seu grande desempenho em automação por voz dentro das industrias visando facilitar o processo de monitoramento. Nosso diferencial se aplica pela preocupação de colaborar com a inserção de deficientes plenos e parciais no “chão de fábrica”. Com o sistema de reconhecimento de voz, ocorre uma facilidade e maior praticidade para a monitoração da indústria.
